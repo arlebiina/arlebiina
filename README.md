@@ -2,4 +2,4 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=ffd6e4"  />
 </div>
 
-              ![divider-hello-kitty](https://github.com/user-attachments/assets/4a279be4-f2cb-40f7-9b76-03d42b5694e2)
+.echo              ![divider-hello-kitty](https://github.com/user-attachments/assets/4a279be4-f2cb-40f7-9b76-03d42b5694e2)
