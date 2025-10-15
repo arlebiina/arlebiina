@@ -1,5 +1,3 @@
-![CSS3](https://img.shields.io/badge/CSS3-F4C2C2?style=for-the-badge&logo=css3&logoColor=black)
-
 
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
