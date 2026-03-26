@@ -22,5 +22,5 @@
 
   <br><br>
 
-  <img src="https://media.tenor.com/vb3_OhKjihQAAAAi/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF-%E3%83%89%E3%83%83%E3%83%88.gif" width="120" />
+  <img src="https://media.tenor.com/sYuJ6yY0ZZoAAAAi/madoka-magica-magical.gif" width="120" />
 </div>
