@@ -22,5 +22,5 @@
 
   <br><br>
 
-  <img src="https://media.tenor.com/ZOXoAc4qb-wAAAAi/rainbow-dash-mlp.gif" width="150" />
+  <img src="https://media.tenor.com/ZOXoAc4qb-wAAAAi/rainbow-dash-mlp.gif" width="40" />
 </div>
