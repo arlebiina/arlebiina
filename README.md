@@ -10,8 +10,6 @@
     Cool with you 
 </pre>
 <br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src=(https://tenor.com/pt-BR/view/bunny-cute-love-gif-4356262845718516762)" />
 <br><br>
-    
-<!-- [![](https://tenor.com/pt-BR/view/bunny-cute-love-gif-4356262845718516762)) -->
-<!-- [![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng) -->
+
