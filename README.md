@@ -22,5 +22,5 @@
 
   <br><br>
 
-  <img src="https://media.tenor.com/t23gPPRJKTMAAAAi/kirby-on-a-warp-star.gif" width="70" />
+  <img src="https://media.tenor.com/t23gPPRJKTMAAAAi/kirby-on-a-warp-star.gif" width="100" />
 </div>
