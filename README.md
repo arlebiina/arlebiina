@@ -16,4 +16,11 @@
   <a href="https://osu.ppy.sh/users/4606212">
     <img src="https://img.shields.io/badge/osu!-ff66ab" />
   </a>
-  <a href="
+  <a href="https://enka.network/u/Inng/1A4HU1/10000069/1985924/">
+    <img src="https://img.shields.io/badge/enka.network-69899c" />
+  </a>
+
+  <br><br>
+
+  <img src="https://media.tenor.com/T09tA3pP208AAAAC/fluttershy-mlp.gif" width="150" />
+</div>
