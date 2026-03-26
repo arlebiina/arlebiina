@@ -22,5 +22,5 @@
 
   <br><br>
 
-  <img src="https://media1.tenor.com/m/ab_a5z_kjX4AAAAC/pink.gif" width="120" />
+  <img src="https://media1.tenor.com/m/ab_a5z_kjX4AAAAC/pink.gif" width="250" />
 </div>
