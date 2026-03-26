@@ -10,6 +10,3 @@
     Cool with you 
 </pre>
 <br>
-<img src=(https://tenor.com/pt-BR/view/bunny-cute-love-gif-4356262845718516762)" />
-<br><br>
-
