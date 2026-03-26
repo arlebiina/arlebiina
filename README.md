@@ -11,7 +11,6 @@
 </pre>
 <br>
 
-    
 <!-- [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis) -->
 <!-- [![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng) -->
 [![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
