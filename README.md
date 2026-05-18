@@ -1,2 +1,2 @@
 
-![Snake animation](https://github.com/seu-usuário-aqui/arlebiina/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/arlebiina/arlebiina/blob/output/github-contribution-grid-snake.svg)
